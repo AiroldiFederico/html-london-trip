@@ -6,6 +6,6 @@
 
 **DATA:** 10 FEBBRAIO 2023
 
-**STATO DELL'ESERCIZIO:** ==TERMINATO==
+**STATO DELL'ESERCIZIO:** TERMINATO
 
-~Boolean~ ~Classe~ ~#93~
+Boolean Classe~ #93
